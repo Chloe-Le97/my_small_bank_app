@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.searchCustomer{
+  width: 40%
+}
+.home_link{
+  text-decoration: none;
+  color: white;
+}
+.header{
+  position: fixed;
+  top:10px;
+  right:20px;
+}

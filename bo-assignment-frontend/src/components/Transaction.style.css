@@ -1,0 +1,11 @@
+.transaction_input{
+    margin: 10px auto !important;
+}
+.transaction_form{
+    margin: 0 auto;
+    text-align: center;
+}
+.submit_transaction{
+    margin: 10px auto !important;
+    width: 75%;
+}

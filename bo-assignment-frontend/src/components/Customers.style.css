@@ -1,0 +1,21 @@
+.customers_table_container{
+    width: 90% !important;
+    margin: 40px auto;
+    border: 1px solid rgb(209, 209, 209);
+}
+.customers_table_head{
+    background-color: rgb(56, 56, 56);
+}
+.customers_table_head_row{
+    color: white !important;
+    font-size: 16px !important;
+}
+.customers_table_body_row_container:nth-child(odd){
+    background-color: rgb(231, 230, 230);
+}
+
+.not_found_customer{
+    color: red;
+    margin: 20px auto;
+    font-weight: 600;
+}
